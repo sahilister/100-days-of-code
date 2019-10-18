@@ -15,4 +15,5 @@
 ### Day 1: Oct 18, Friday
 
 **Today's Progress**: Coded freeCodeCamp's technical documentation html file.
+
 **Thoughts**: Was quite intrigued with the <a href="https://codepen.io/freeCodeCamp/full/NdrKKL">front-end of website </a> made only using html and css.
