@@ -17,3 +17,10 @@
 **Today's Progress**: Coded freeCodeCamp's technical documentation html file.
 
 **Thoughts**: Was quite intrigued with the <a href="https://codepen.io/freeCodeCamp/full/NdrKKL">front-end of website </a> made only using html and css.
+
+
+### Day 2: Oct 19, Saturday
+
+**Today's Progress**: Made navbar and fixed on left on tech-doc. Did some basics arithmetic using javascript on freeCodeCamp.
+
+**Thoughts**: Having navbar fixed on left and having a single page application is easy. Will use this in portfolio site as well as on journal project.
