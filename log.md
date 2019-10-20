@@ -24,3 +24,10 @@
 **Today's Progress**: Made navbar and fixed on left on tech-doc. Did some basics arithmetic using javascript on freeCodeCamp.
 
 **Thoughts**: Having navbar fixed on left and having a single page application is easy. Will use this in portfolio site as well as on journal project.
+
+
+### Day 3: Oct 20, Sunday
+
+**Today's Progress**: Fixed navbar, did visual design of the tech-doc.
+
+**Thoughts**: Did some less coding and studying today.
