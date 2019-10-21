@@ -31,3 +31,10 @@
 **Today's Progress**: Fixed navbar, did visual design of the tech-doc.
 
 **Thoughts**: Did some less coding and studying today.
+
+
+### Day 4: Oct 21, Monday
+
+**Today's Progress**: Add media-query.
+
+**Thoughts**: Got to know about viewport element. Long way to go to make a good resposive site.
