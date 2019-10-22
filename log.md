@@ -38,3 +38,13 @@
 **Today's Progress**: Add media-query.
 
 **Thoughts**: Got to know about viewport element. Long way to go to make a good resposive site.
+
+
+### Day 5: Oct 22, Tuesday
+
+**Today's Progress**: Completed technical documentation with Responsive Web Elements.
+
+**Thoughts**: Will start with a little javascript and portfolio website tomorrow.
+
+**Link(s) to work**: [Javascript Technical Documentation](https://tech-doc.now.sh/)
+
