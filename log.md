@@ -48,3 +48,10 @@
 
 **Link(s) to work**: [Javascript Technical Documentation](https://tech-doc.now.sh/)
 
+
+### Day 6: Oct 23, Wednesday
+
+**Today's Progress**: Started portfolio project.
+**Thoughts**: Worked to get pop!os working after effort. Got less time to code so for the code sake started the project and did some basic html.
+
+
