@@ -52,6 +52,15 @@
 ### Day 6: Oct 23, Wednesday
 
 **Today's Progress**: Started portfolio project.
+
 **Thoughts**: Worked to get pop!os working after effort. Got less time to code so for the code sake started the project and did some basic html.
+
+
+### Day 7: Oct 24, Thursday
+
+**Today's Progress**: Added basic html structure in portfolio. Completed string manipulation using operators on fcc.
+
+**Thoughts**: Making a SPA with different background looks easy, will try implementing different backgrounds with display blocks tomorrow.
+
 
 
