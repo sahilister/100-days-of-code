@@ -63,4 +63,10 @@
 **Thoughts**: Making a SPA with different background looks easy, will try implementing different backgrounds with display blocks tomorrow.
 
 
+### Day 8: Oct 25, Friday
+
+**Today's Progress**: Did nav-bar for the portfolio site.
+
+**Thoughts**: Roboto (and maybe Lato), used on fcc website with the combination of white-black looks good. Nav-Bar looks and feel good.
+
 
