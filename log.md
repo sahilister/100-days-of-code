@@ -70,3 +70,11 @@
 **Thoughts**: Roboto (and maybe Lato), used on fcc website with the combination of white-black looks good. Nav-Bar looks and feel good.
 
 
+
+### Day 9: Oct 26, Saturday
+
+**Today's Progress**: Did main headings.
+
+**Thoughts**: Woke up at 3.30am. Did this coding.
+
+
