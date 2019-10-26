@@ -73,8 +73,8 @@
 
 ### Day 9: Oct 26, Saturday
 
-**Today's Progress**: Did main headings.
+**Today's Progress**: Did main headings and add loading with blinker.
 
-**Thoughts**: Woke up at 3.30am. Did this coding.
+**Thoughts**: Woke up at 3.30am. Did this coding. CSS animation is tough but feels satisfying.
 
 
