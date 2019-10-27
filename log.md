@@ -70,11 +70,17 @@
 **Thoughts**: Roboto (and maybe Lato), used on fcc website with the combination of white-black looks good. Nav-Bar looks and feel good.
 
 
-
 ### Day 9: Oct 26, Saturday
 
 **Today's Progress**: Did main headings and add loading with blinker.
 
 **Thoughts**: Woke up at 3.30am. Did this coding. CSS animation is tough but feels satisfying.
+
+
+### Day 10: Oct 27, Sunday
+
+**Today's Progress**: Add style for project section. In js, did strings, push, pop, shift, unshift, scopes and operators on fcc.
+
+**Thoughts**: Nothing.
 
 
