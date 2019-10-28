@@ -84,3 +84,9 @@
 **Thoughts**: Nothing.
 
 
+### Day 11: Oct 28, Monday
+
+**Today's Progress**: Start with reactjs.org tutorial to make tic-tac-toe game.
+
+**Thoughts**: Was a little not in mood to work on portfolio site so started with this.
+
