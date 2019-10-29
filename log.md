@@ -90,3 +90,14 @@
 
 **Thoughts**: Was a little not in mood to work on portfolio site so started with this.
 
+
+### Day 12: Oct 29, Tuesday
+
+**Today's Progress**: Comment on issue on tic-tac-toe repo. Create a PR.
+
+**Thoughts**: Not in mood of much coding today but learned to start converstion in issues.
+
+**Link(s) to work**: 
+* [#1 issue](https://github.com/sahilister/tic-tac-toe/issues/1)
+* [#2 Add npm install](https://github.com/sahilister/tic-tac-toe/pull/2)
+
