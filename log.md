@@ -101,3 +101,13 @@
 * [#1 issue](https://github.com/sahilister/tic-tac-toe/issues/1)
 * [#2 Add npm install](https://github.com/sahilister/tic-tac-toe/pull/2)
 
+
+### Day 13: Oct 20, Wednesday
+
+**Today's Progress**: Closed an issue. Did switch statements in js on fcc.
+
+**Thoughts**: Going slow. Learned about apporved in PRs.
+
+**Link(s) to work**: [closed issue](https://github.com/sahilister/tic-tac-toe/issues/1)
+
+
