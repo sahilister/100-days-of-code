@@ -102,12 +102,20 @@
 * [#2 Add npm install](https://github.com/sahilister/tic-tac-toe/pull/2)
 
 
-### Day 13: Oct 20, Wednesday
+### Day 13: Oct 30, Wednesday
 
 **Today's Progress**: Closed an issue. Did switch statements in js on fcc.
 
 **Thoughts**: Going slow. Learned about apporved in PRs.
 
 **Link(s) to work**: [closed issue](https://github.com/sahilister/tic-tac-toe/issues/1)
+
+
+### Day 14: Oct 31, Thursday
+
+**Today's Progress**: Forked Abhay' repo to create README.md. Did a little project section of portfolio. Did javascript objects on fcc.
+
+**Thoughts**: Slump in coding grind.
+
 
 
