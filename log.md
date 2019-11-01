@@ -119,3 +119,13 @@
 
 
 
+### Day 15: Nov 1, Friday
+
+**Today's Progress**: Add font-awesome icon pack in portfolio. Deployed the version for portfolio site. Did javascript iterations on fcc.
+
+**Thoughts**: Slow and steady wins the race.
+
+**Link(s) to work**: [portfolio site](sahilister.now.sh)
+
+
+
