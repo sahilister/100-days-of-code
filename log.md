@@ -134,7 +134,16 @@
 
 **Thoughts**: yeeeeeee! but didn't really passed the portfolio, just completed that without passing the test cases.
 
-**Link(s) to work**: [pResponsive Web Design Certificate](https://www.freecodecamp.org/certification/fcc1dafbcc5-1ddb-4f39-b726-ca26768b8198/responsive-web-design)
+**Link(s) to work**: [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/fcc1dafbcc5-1ddb-4f39-b726-ca26768b8198/responsive-web-design)
+
+
+
+### Day 17: Nov 3, Sunday
+
+**Today's Progress**: Started Javascript30 day 1 project - JS drumstick.
+**Thoughts**: Will definetaly learn a lot though it'll take more than 30 days to complete.
+
+**Link(s) to work**: [30 Days of Javascript](https://javascript30.com/)
 
 
 
