@@ -128,4 +128,13 @@
 **Link(s) to work**: [portfolio site](https://sahilister.now.sh/)
 
 
+### Day 16: Nov 2, Saturday
+
+**Today's Progress**: Completed javascript on fcc. Completed Responsive-Web-Dev on fcc.
+
+**Thoughts**: yeeeeeee! but didn't really passed the portfolio, just completed that without passing the test cases.
+
+**Link(s) to work**: [pResponsive Web Design Certificate](https://www.freecodecamp.org/certification/fcc1dafbcc5-1ddb-4f39-b726-ca26768b8198/responsive-web-design)
+
+
 
