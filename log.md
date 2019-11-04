@@ -46,7 +46,8 @@
 
 **Thoughts**: Will start with a little javascript and portfolio website tomorrow.
 
-**Link(s) to work**: [Javascript Technical Documentation](https://tech-doc.now.sh/)
+**Link(s) to work**: 
+* [Javascript Technical Documentation](https://tech-doc.now.sh/)
 
 
 ### Day 6: Oct 23, Wednesday
@@ -108,7 +109,8 @@
 
 **Thoughts**: Going slow. Learned about apporved in PRs.
 
-**Link(s) to work**: [closed issue](https://github.com/sahilister/tic-tac-toe/issues/1)
+**Link(s) to work**: 
+* [closed issue](https://github.com/sahilister/tic-tac-toe/issues/1)
 
 
 ### Day 14: Oct 31, Thursday
@@ -124,7 +126,8 @@
 
 **Thoughts**: Slow and steady wins the race.
 
-**Link(s) to work**: [portfolio site](https://sahilister.now.sh/)
+**Link(s) to work**: 
+* [Portfolio Site](https://sahilister.now.sh/)
 
 
 ### Day 16: Nov 2, Saturday
@@ -133,7 +136,8 @@
 
 **Thoughts**: yeeeeeee! but didn't really passed the portfolio, just completed that without passing the test cases.
 
-**Link(s) to work**: [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/fcc1dafbcc5-1ddb-4f39-b726-ca26768b8198/responsive-web-design)
+**Link(s) to work**: 
+* [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/fcc1dafbcc5-1ddb-4f39-b726-ca26768b8198/responsive-web-design)
 
 
 
@@ -142,7 +146,8 @@
 **Today's Progress**: Started Javascript30 day 1 project - JS drumstick.
 **Thoughts**: Will definetaly learn a lot though it'll take more than 30 days to complete.
 
-**Link(s) to work**: [30 Days of Javascript](https://javascript30.com/)
+**Link(s) to work**: 
+* [30 Days of Javascript](https://javascript30.com/)
 
 
 
