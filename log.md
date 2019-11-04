@@ -118,7 +118,6 @@
 **Thoughts**: Slump in coding grind.
 
 
-
 ### Day 15: Nov 1, Friday
 
 **Today's Progress**: Add font-awesome icon pack in portfolio. Deployed the version for portfolio site. Did javascript iterations on fcc.
@@ -144,6 +143,18 @@
 **Thoughts**: Will definetaly learn a lot though it'll take more than 30 days to complete.
 
 **Link(s) to work**: [30 Days of Javascript](https://javascript30.com/)
+
+
+
+### Day 18: Nov 4, Monday
+
+**Today's Progress**: Completed day 1 of js30. Made use of github pages.
+**Thoughts**: Github pages is easy for repo in repo sites. Learned a little like user defined attributes in html but need to work on jquery and functions more to fully use them.
+
+**Link(s) to work**: 
+* [gh-page](https://sahilister.github.io/30-Days-of-Javascript/)
+* [Javascript Drum Stick](https://sahilister.github.io/30-Days-of-Javascript/01%20-%20Javascript%20Drum%20Stick/index.html)
+
 
 
 
