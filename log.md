@@ -140,25 +140,43 @@
 * [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/fcc1dafbcc5-1ddb-4f39-b726-ca26768b8198/responsive-web-design)
 
 
-
 ### Day 17: Nov 3, Sunday
 
 **Today's Progress**: Started Javascript30 day 1 project - JS drumstick.
+
 **Thoughts**: Will definetaly learn a lot though it'll take more than 30 days to complete.
 
 **Link(s) to work**: 
 * [30 Days of Javascript](https://javascript30.com/)
 
 
-
 ### Day 18: Nov 4, Monday
 
 **Today's Progress**: Completed day 1 of js30. Made use of github pages.
+
 **Thoughts**: Github pages is easy for repo in repo sites. Learned a little like user defined attributes in html but need to work on jquery and functions more to fully use them.
 
 **Link(s) to work**: 
 * [gh-page](https://sahilister.github.io/30-Days-of-Javascript/)
 * [Javascript Drum Stick](https://sahilister.github.io/30-Days-of-Javascript/01%20-%20Javascript%20Drum%20Stick/index.html)
+
+
+### Day 18: Nov 5, Tuesday
+
+**Today's Progress**: Started CS + JS clock. Commented on an issue in bitwarden/browser of bitwarden extension not loading in private mode.
+
+**Thoughts**: Less coding but slow and steady wins the race. 
+
+**Link(s) to work**: 
+* [issue](https://github.com/bitwarden/browser/issues/1050)
+
+
+### Day 19: Nov 6, Wednesday
+
+**Today's Progress**: Add hands in clock.
+
+**Thoughts**: Less.
+
 
 
 
