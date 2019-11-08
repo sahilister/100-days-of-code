@@ -179,5 +179,13 @@
 
 
 
+### Day 20: Nov 7, Thursday
+
+**Today's Progress**: Started with ES6 on fcc.
+
+**Thoughts**: Taking an voluntery day off on Nov 8th.
+
+
+
 
 
