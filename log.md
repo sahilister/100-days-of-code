@@ -178,12 +178,22 @@
 **Thoughts**: Less.
 
 
-
 ### Day 20: Nov 7, Thursday
 
 **Today's Progress**: Started with ES6 on fcc.
 
 **Thoughts**: Taking an voluntery day off on Nov 8th.
+
+
+### Day 21: Nov 9, Saturday
+
+**Today's Progress**: Made a PR refactoring [mern-boilerplate](https://github.com/Daggron/mern-boilerplate). Created an organisaton called "Jotter-Org" for the project.
+
+**Thoughts**: Let's see what pans out.
+
+**Link(s) to work**: 
+* [PR](https://github.com/Daggron/mern-boilerplate/pull/1)
+* [Jotter-Org](https://github.com/Jotter-Org)
 
 
 
