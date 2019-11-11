@@ -196,6 +196,17 @@
 * [Jotter-Org](https://github.com/Jotter-Org)
 
 
+### Day 22: Nov 11, Monday
+
+**Today's Progress**: Completed day 2 css+js clock.
+
+**Thoughts**: Feeling the slow down of motivation.
+
+**Link(s) to work**: 
+* [CSS + JS Clock](https://sahilister.github.io/30-Days-of-Javascript/02%20-%20CSS%20+%20JS%20Clock/)
+
+
+
 
 
 
