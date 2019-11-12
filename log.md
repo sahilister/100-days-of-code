@@ -99,8 +99,8 @@
 **Thoughts**: Not in mood of much coding today but learned to start converstion in issues.
 
 **Link(s) to work**: 
-* [#1 issue](https://github.com/sahilister/tic-tac-toe/issues/1)
-* [#2 Add npm install](https://github.com/sahilister/tic-tac-toe/pull/2)
+* [Incomplete Readme #1](https://github.com/sahilister/tic-tac-toe/issues/1)
+* [Add npm install #2](https://github.com/sahilister/tic-tac-toe/pull/2)
 
 
 ### Day 13: Oct 30, Wednesday
