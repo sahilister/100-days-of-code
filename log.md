@@ -206,6 +206,16 @@
 * [CSS + JS Clock](https://sahilister.github.io/30-Days-of-Javascript/02%20-%20CSS%20+%20JS%20Clock/)
 
 
+### Day 22: Nov 12, Tuesday
+
+**Today's Progress**: Did some codes for es6 on freecodecamp. Made a pull request on freecourses. Read and made the contribution guidelines.
+
+**Thoughts**: Made the pull request but not sure it would be accepted as i filled the google form as well as made the pull request.
+
+**Link(s) to work**: 
+* [Add Bob Ziroll's React Course #152](https://github.com/Leocardoso94/Free-Courses/pull/152)
+
+
 
 
 
