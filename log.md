@@ -192,7 +192,7 @@
 **Thoughts**: Let's see what pans out.
 
 **Link(s) to work**: 
-* [PR](https://github.com/Daggron/mern-boilerplate/pull/1)
+* [Refactor the README.md #1](https://github.com/Daggron/mern-boilerplate/pull/1)
 * [Jotter-Org](https://github.com/Jotter-Org)
 
 
