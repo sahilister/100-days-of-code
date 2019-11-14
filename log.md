@@ -218,5 +218,9 @@
 
 
 
+### Day 23: Nov 13, Wednesday
 
+**Today's Progress**: Did some react, not sure how much i gasped. Tried git branchings in cli.
+
+**Thoughts**: Will start with a new course for react. Will do js30 if time gives.
 
