@@ -229,7 +229,8 @@
 
 **Thoughts**: Added todo list in projects for works to be done when new project or streak has to be maintained. Probably will go forward with adding todo s in upcomings repos to keep a list of work to be done. Good teaching method as in case of react on scrimba. Couldn't get the platform to run my code by maybe will go with running react on local machine for now.
 
-
 **Link(s) to work**: 
-* [Bob Ziroll's React Course on [Scrimba](https://scrimba.com/)](https://scrimba.com/g/glearnreact)
+* [Bob Ziroll's React Course on Scrimba](https://scrimba.com/g/glearnreact)
+* [Internship Opportunity at OPENGENUS](https://discourse.opengenus.org/t/internship-guidelines-at-opengenus/2335)
+* [Fantastic resume by some Abhishek Guy](https://itsabhishek.me/)
 
