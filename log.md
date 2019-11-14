@@ -216,11 +216,20 @@
 * [Add Bob Ziroll's React Course #152](https://github.com/Leocardoso94/Free-Courses/pull/152)
 
 
-
-
 ### Day 23: Nov 13, Wednesday
 
 **Today's Progress**: Did some react, not sure how much i gasped. Tried git branchings in cli.
 
 **Thoughts**: Will start with a new course for react. Will do js30 if time gives.
+
+
+### Day 24: Nov 14, Thursday
+
+**Today's Progress**: Started day 3 of js30. Add todo s in projects. Started react course on scrimba.
+
+**Thoughts**: Added todo list in projects for works to be done when new project or streak has to be maintained. Probably will go forward with adding todo s in upcomings repos to keep a list of work to be done. Good teaching method as in case of react on scrimba. Couldn't get the platform to run my code by maybe will go with running react on local machine for now.
+
+
+**Link(s) to work**: 
+* [Bob Ziroll's React Course on [Scrimba](https://scrimba.com/)](https://scrimba.com/g/glearnreact)
 
