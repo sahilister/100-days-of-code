@@ -161,7 +161,7 @@
 * [Javascript Drum Stick](https://sahilister.github.io/30-Days-of-Javascript/01%20-%20Javascript%20Drum%20Stick/index.html)
 
 
-### Day 18: Nov 5, Tuesday
+### Day 19: Nov 5, Tuesday
 
 **Today's Progress**: Started CS + JS clock. Commented on an issue in bitwarden/browser of bitwarden extension not loading in private mode.
 
@@ -171,21 +171,21 @@
 * [issue](https://github.com/bitwarden/browser/issues/1050)
 
 
-### Day 19: Nov 6, Wednesday
+### Day 20: Nov 6, Wednesday
 
 **Today's Progress**: Add hands in clock.
 
 **Thoughts**: Less.
 
 
-### Day 20: Nov 7, Thursday
+### Day 21: Nov 7, Thursday
 
 **Today's Progress**: Started with ES6 on fcc.
 
 **Thoughts**: Taking an voluntery day off on Nov 8th.
 
 
-### Day 21: Nov 9, Saturday
+### Day 22: Nov 9, Saturday
 
 **Today's Progress**: Made a PR refactoring [mern-boilerplate](https://github.com/Daggron/mern-boilerplate). Created an organisaton called "Jotter-Org" for the project.
 
@@ -196,7 +196,7 @@
 * [Jotter-Org](https://github.com/Jotter-Org)
 
 
-### Day 22: Nov 11, Monday
+### Day 23: Nov 11, Monday
 
 **Today's Progress**: Completed day 2 css+js clock.
 
@@ -206,7 +206,7 @@
 * [CSS + JS Clock](https://sahilister.github.io/30-Days-of-Javascript/02%20-%20CSS%20+%20JS%20Clock/)
 
 
-### Day 22: Nov 12, Tuesday
+### Day 24: Nov 12, Tuesday
 
 **Today's Progress**: Did some codes for es6 on freecodecamp. Made a pull request on freecourses. Read and made the contribution guidelines.
 
@@ -216,14 +216,14 @@
 * [Add Bob Ziroll's React Course #152](https://github.com/Leocardoso94/Free-Courses/pull/152)
 
 
-### Day 23: Nov 13, Wednesday
+### Day 25: Nov 13, Wednesday
 
 **Today's Progress**: Did some react, not sure how much i gasped. Tried git branchings in cli.
 
 **Thoughts**: Will start with a new course for react. Will do js30 if time gives.
 
 
-### Day 24: Nov 14, Thursday
+### Day 26: Nov 14, Thursday
 
 **Today's Progress**: Started day 3 of js30. Add todo s in projects. Started react course on scrimba.
 
