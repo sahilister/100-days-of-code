@@ -234,3 +234,13 @@
 * [Internship Opportunity at OPENGENUS](https://discourse.opengenus.org/t/internship-guidelines-at-opengenus/2335)
 * [Fantastic resume by some Abhishek Guy](https://itsabhishek.me/)
 
+
+### Day 27: Nov 15, Friday
+
+**Today's Progress**: Complete day 3 of js30.
+
+**Thoughts**: Learned a little about css variables, would have to practice more to gain proper understanding. Maybe maybe i am facing tutorial hell as mentioned on a medium article.
+
+**Link(s) to work**: 
+* [Playing with CSS vars](https://sahilister.github.io/30-Days-of-Javascript/03%20-%20Playing%20with%20CSS%20Variables%20with%20JS/)
+
