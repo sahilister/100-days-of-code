@@ -244,3 +244,21 @@
 **Link(s) to work**: 
 * [Playing with CSS vars](https://sahilister.github.io/30-Days-of-Javascript/03%20-%20Playing%20with%20CSS%20Variables%20with%20JS/)
 
+
+### Day 28: Nov 16, Saturday
+
+**Today's Progress**: Started react course. Learned the intro. Started another repo by the name 'todo-app' to do project and learn react.
+
+**Thoughts**: Doing the course on my own pace does help understanding the step by step things that goes into running react.
+
+**Link(s) to work**: 
+* [todo-app on react](https://github.com/sahilister/todo-app)
+
+
+### Day 29: Nov 17, Sunday
+
+**Today's Progress**: Learned how to place multiple components under one components.
+
+**Thoughts**: Will update this log as soon as i'm done commiting the code on github as yesterday and many days earlier also i forget to update this log on the day.
+
+
