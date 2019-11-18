@@ -262,3 +262,8 @@
 **Thoughts**: Will update this log as soon as i'm done commiting the code on github as yesterday and many days earlier also i forget to update this log on the day.
 
 
+### Day 30: Nov 18, Monday
+
+**Today's Progress**: Learned how to use css in jsx.
+
+**Thoughts**: Will also do some fcc today if get some free time.
