@@ -267,3 +267,11 @@
 **Today's Progress**: Learned how to use css in jsx.
 
 **Thoughts**: Will also do some fcc today if get some free time.
+
+
+
+### Day 31: Nov 19, Tuesday
+
+**Today's Progress**: Started working on ds-and-algo.
+
+**Thoughts**: Long way to go.
