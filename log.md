@@ -275,3 +275,11 @@
 **Today's Progress**: Started working on ds-and-algo.
 
 **Thoughts**: Long way to go.
+
+
+
+### Day 32: Nov 20, Wednesday
+
+**Today's Progress**: Learned about var usage in jsx syntax.
+
+**Thoughts**: Would have to do fcc along to under the stuff.
