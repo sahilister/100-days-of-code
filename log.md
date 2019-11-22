@@ -291,3 +291,16 @@
 **Today's Progress**: Started WeatherApp.
 
 **Thoughts**: Good starting project. Really need to do fcc javascript and libraries. Facing issues with syntax, not comfortable with js right now.
+
+
+### Day 34: Nov 22, Friday
+
+**Today's Progress**: Almost done with weather barring deployement and api key hiding. Started and completed and analog watch using basic javascript. Completed ES6 on fcc.
+
+**Thoughts**: Had lot on plate today but this may be good start. Just found out that github is going to archieve every public repositery on 02/02/2020 in arctic seed vault. Will try doing maximum work so that many repos literally go down in history.
+
+**Link(s) to work**: 
+* [Analog Watch](https://sahilister.github.io/AnalogClock/)
+* [GitHub Arctic Code Vault](https://archiveprogram.github.com/)
+
+***[72 days to D Day](https://archiveprogram.github.com/)
