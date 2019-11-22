@@ -283,3 +283,11 @@
 **Today's Progress**: Learned about var usage in jsx syntax.
 
 **Thoughts**: Would have to do fcc along to under the stuff.
+
+
+
+### Day 33: Nov 21, Thursday
+
+**Today's Progress**: Started WeatherApp.
+
+**Thoughts**: Good starting project. Really need to do fcc javascript and libraries. Facing issues with syntax, not comfortable with js right now.
