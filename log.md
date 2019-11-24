@@ -305,3 +305,21 @@
 * [GitHub Arctic Code Vault](https://archiveprogram.github.com/)
 
 #### _[72 days to D Day](https://archiveprogram.github.com/)_
+
+
+### Day 35: Nov 23, Saturday
+
+**Today's Progress**: Done props in react.
+
+**Thoughts**: None.
+
+
+### Day 36: Nov 24, Sunday
+
+**Today's Progress**: Pushed the weather app on github with build info.
+
+**Thoughts**: Will try using no api-key apis in further project(until i get to know how to hide the key), to make a website live.
+
+**Link(s) to work**: 
+* [Weather App](https://github.com/sahilister/WeatherApp)
+
