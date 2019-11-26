@@ -331,3 +331,14 @@
 **Thoughts**: Going slow.
 
 
+### Day 37: Nov 26, Tuesday
+
+**Today's Progress**: Changed the look of hands to distinguish between clock hands.
+
+**Thoughts**: Slow and steady progress everyday.
+
+**Link(s) to work**: 
+* [Clock](https://sahilister.github.io/30-Days-of-Javascript/02%20-%20CSS%20+%20JS%20Clock/)
+
+
+
