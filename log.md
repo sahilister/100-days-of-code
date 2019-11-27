@@ -333,12 +333,22 @@
 
 ### Day 37: Nov 26, Tuesday
 
-**Today's Progress**: Changed the look of hands to distinguish between clock hands.
+**Today's Progress**: Changed the look of hands to distinguish between clock hands. Did L1-5 on overthewire bandit games.
 
 **Thoughts**: Slow and steady progress everyday.
 
 **Link(s) to work**: 
 * [Clock](https://sahilister.github.io/30-Days-of-Javascript/02%20-%20CSS%20+%20JS%20Clock/)
+* [Bandit games on overthewire.org](https://overthewire.org/wargames/bandit/)
+
+
+### Day 38: Nov 27, Wednesday
+
+**Today's Progress**: Started a react quote generator. Did L6-10 on overthewire.org. Did some react mapping.
+
+**Thoughts**: Completed 100 contributions in the month of november.
+
+
 
 
 
