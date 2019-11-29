@@ -349,7 +349,7 @@
 **Thoughts**: Completed 100 contributions in the month of november.
 
 
-### Day 39: Nov 28, Wednesday
+### Day 39: Nov 28, Thursday
 
 **Today's Progress**: Did some array methods while completing day 4 of js30.
 
@@ -357,6 +357,16 @@
 
 **Link(s) to work**: 
 * [Array Cardio Day 1](https://sahilister.github.io/30-Days-of-Javascript/04%20-%20Array%20Cardio%20Day%201/)
+
+
+### Day 40: Nov 29, Friday
+
+**Today's Progress**: Did a little mapping practise. Refactored the quotegenerater repo from html/css to react.
+
+**Thoughts**: Let's see what we can achieve in a day.
+
+
+
 
 
 
