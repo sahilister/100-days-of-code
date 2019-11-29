@@ -331,7 +331,7 @@
 **Thoughts**: Going slow.
 
 
-### Day 37: Nov 26, Tuesday
+### Day 38: Nov 26, Tuesday
 
 **Today's Progress**: Changed the look of hands to distinguish between clock hands. Did L1-5 on overthewire bandit games.
 
@@ -342,14 +342,14 @@
 * [Bandit games on overthewire.org](https://overthewire.org/wargames/bandit/)
 
 
-### Day 38: Nov 27, Wednesday
+### Day 39: Nov 27, Wednesday
 
 **Today's Progress**: Started a react quote generator. Did L6-10 on overthewire.org. Did some react mapping.
 
 **Thoughts**: Completed 100 contributions in the month of november.
 
 
-### Day 39: Nov 28, Thursday
+### Day 40: Nov 28, Thursday
 
 **Today's Progress**: Did some array methods while completing day 4 of js30.
 
@@ -359,7 +359,7 @@
 * [Array Cardio Day 1](https://sahilister.github.io/30-Days-of-Javascript/04%20-%20Array%20Cardio%20Day%201/)
 
 
-### Day 40: Nov 29, Friday
+### Day 41: Nov 29, Friday
 
 **Today's Progress**: Did a little mapping practise. Refactored the quotegenerater repo from html/css to react.
 
