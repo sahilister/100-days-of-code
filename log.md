@@ -349,6 +349,19 @@
 **Thoughts**: Completed 100 contributions in the month of november.
 
 
+### Day 39: Nov 28, Wednesday
+
+**Today's Progress**: Did some array methods while completing day 4 of js30.
+
+**Thoughts**: Sometimes things go overhead in js30.
+
+**Link(s) to work**: 
+* [Array Cardio Day 1](https://sahilister.github.io/30-Days-of-Javascript/04%20-%20Array%20Cardio%20Day%201/)
+
+
+
+
+
 
 
 
