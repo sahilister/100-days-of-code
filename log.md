@@ -366,6 +366,13 @@
 **Thoughts**: Let's see what we can achieve in a day.
 
 
+### Day 42: Nov 30, Saturday
+
+**Today's Progress**: Did mapping and props once again. Used the quote generator to practise it.
+
+**Thoughts**: Will have to wrap maps and move on. Has already devoted 3-4 days on it.
+
+
 
 
 
