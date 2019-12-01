@@ -373,6 +373,17 @@
 **Thoughts**: Will have to wrap maps and move on. Has already devoted 3-4 days on it.
 
 
+### Day 43: Dec 1, Sunday
+
+**Today's Progress**: Completed random quote generator.
+
+**Thoughts**: Will keep and adding good quote finds and use this eventually in my homepage project.
+
+**Link(s) to work**: 
+* [Random Quote Generator](https://quotegenerator.sahilister.now.sh)
+
+
+
 
 
 
