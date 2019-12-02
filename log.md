@@ -383,10 +383,11 @@
 * [Random Quote Generator](https://quotegenerator.sahilister.now.sh)
 
 
+### Day 44: Dec 2, Sunday
 
+**Today's Progress**: Made text on quote generator responsive.
 
-
-
+**Thoughts**: Almost nearing 50 days. Will write a detailed thoughts when 50 days are complete.
 
 
 
