@@ -390,6 +390,13 @@
 **Thoughts**: Almost nearing 50 days. Will write a detailed thoughts when 50 days are complete.
 
 
+### Day 45: Dec 3, Monday
+
+**Today's Progress**: Did react states.
+
+**Thoughts**: Will also do so ds and algo and push the codes to github.
+
+
 
 
 
