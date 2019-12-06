@@ -397,6 +397,16 @@
 **Thoughts**: Will also do so ds and algo and push the codes to github.
 
 
+### Day 44: Dec 6, Friday
+
+**Today's Progress**: Did dark mode detection and changes in technical documentation
+
+**Thoughts**: Doing less coding, should do more. Had gojek for pre-placement talk today in college.
+
+**Link(s) to work**: 
+* [Technical Documentation](https://tech-doc.now.sh/)
+
+
 
 
 
