@@ -397,7 +397,7 @@
 **Thoughts**: Will also do so ds and algo and push the codes to github.
 
 
-### Day 44: Dec 6, Friday
+### Day 46: Dec 6, Friday
 
 **Today's Progress**: Did dark mode detection and changes in technical documentation
 
@@ -406,6 +406,12 @@
 **Link(s) to work**: 
 * [Technical Documentation](https://tech-doc.now.sh/)
 
+
+### Day 47: Dec 18, Wednesday
+
+**Today's Progress**: Finally able to fetch xkcd img using axios.
+
+**Thoughts**: Will put the link as soon as done with the xkcd viewer.
 
 
 
