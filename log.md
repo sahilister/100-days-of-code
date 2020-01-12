@@ -412,7 +412,16 @@
 **Today's Progress**: Finally able to fetch xkcd img using axios.
 
 **Thoughts**: Will put the link as soon as done with the xkcd viewer.
+**Link(s) to work**: 
 
+
+### Day 48: Jan 11, 20 Sun
+
+**Today's Progress**: Worked on using the zomato api for a friend.
+
+**Thoughts**: API work is fun.
+
+* [Zomato API repo](https://github.com/sahilister/zomato-api)
 
 
 
