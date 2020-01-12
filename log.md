@@ -415,13 +415,21 @@
 **Link(s) to work**: 
 
 
-### Day 48: Jan 11, 20 Sun
+### Day 48: Jan 11, 20 Sat
 
 **Today's Progress**: Worked on using the zomato api for a friend.
 
 **Thoughts**: API work is fun.
 
 * [Zomato API repo](https://github.com/sahilister/zomato-api)
+
+
+### Day 49: Jan 12, 20 Sun
+
+**Today's Progress**: Learned about react forms.
+
+**Thoughts**: Slow in pace.
+
 
 
 
